@@ -4,10 +4,10 @@ Code used to generate plots published in the paper detailing the discovery of TI
 Read the paper: [TIC 172900988: A Transiting Circumbinary Planet Detected in One Sector of TESS Data](https://arxiv.org/abs/2105.08614) 
 
 Or read about the TIC-1729 in the news:
-  [Sci-News](https://www.sci-news.com/astronomy/jupiter-sized-circumbinary-exoplanet-09689.html)
-  [NASA](https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-june-01st.html)
-  [medium](https://medium.com/absolute-cosmos/tess-detects-an-exoplanet-orbiting-two-stars-43e9f6d0bd6e)
-  [theuncoverreality](https://theuncoverreality.in/2021/05/19/astronomers-discovered-circumbinary-planet-tic-172900988b-planetary-science/)
+  * [Sci-News](https://www.sci-news.com/astronomy/jupiter-sized-circumbinary-exoplanet-09689.html)
+  * [NASA](https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-june-01st.html)
+  * [medium](https://medium.com/absolute-cosmos/tess-detects-an-exoplanet-orbiting-two-stars-43e9f6d0bd6e)
+  * [theuncoverreality](https://theuncoverreality.in/2021/05/19/astronomers-discovered-circumbinary-planet-tic-172900988b-planetary-science/)
 
 
 # Access the plots on Google Colabs:
