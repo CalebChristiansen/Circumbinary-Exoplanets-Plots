@@ -11,7 +11,7 @@ Or read about TIC-1729 in the news:
 
 
 # Access Updated Plots:
-Plots automatically pull the latest data from NASA's exoplanet archive. Circumbinary Planet Data needs to be updated manually. The easiest way to downlaod an updated plot is by using the jupyter notebooks hosted on Google Colabs. Instructions are included in the notebooks linked below.
+Plots automatically pull the latest data from NASA's exoplanet archive. Circumbinary planet data needs to be updated manually. The easiest way to download an updated plot is by using the jupyter notebooks hosted on Google Colabs. Instructions are included in the notebooks linked below.
 
 ## [Insolation Vs Radius Plot](https://colab.research.google.com/drive/1rG3tsiZL4BvGme8pgh-hnHbccg_c-HzH?usp=sharing)
 ![image](https://user-images.githubusercontent.com/48393233/139557573-b410d096-b4d0-4edc-850b-2e2960f155b9.jpg)
